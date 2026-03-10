@@ -16,3 +16,4 @@ packages/
 .DS_Store
 Thumbs.db
 *.slnx
+.vs/
