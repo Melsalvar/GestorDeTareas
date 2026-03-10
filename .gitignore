@@ -1,0 +1,17 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+
+# Archivos de NuGet
+packages/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
