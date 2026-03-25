@@ -55,8 +55,13 @@ namespace GestorTareasArray
                 {
                     Console.WriteLine("Opción no válida. Inténtalo de nuevo.");
                 }
-            }while (opcion != 4) ;
+            }
+<<<<<<< HEAD
+            //Funcionalidades de login y registro
             Console.WriteLine("Login implementado");
+=======
+            Console.WriteLine("Registro implementado");
+>>>>>>> feature/registro
         }
     }
 }
