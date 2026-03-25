@@ -4,6 +4,8 @@ namespace GestorTareasArray
 {
     class Program
     {
+        private static int opcion;
+
         static void Main(string[] args)
         {
             Console.WriteLine("Gestor de Tareas Pendientes (con Arrays)");
@@ -53,7 +55,8 @@ namespace GestorTareasArray
                 {
                     Console.WriteLine("Opción no válida. Inténtalo de nuevo.");
                 }
-            }
+            }while (opcion != 4) ;
+            Console.WriteLine("Login implementado");
         }
     }
 }
