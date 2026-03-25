@@ -57,6 +57,10 @@ namespace GestorTareasArray
                 }
             }while (opcion != 4) ;
             Console.WriteLine("PENDIENTE");
+
+            //  feature/login
+            while (opcion != 4) ;
+            Console.WriteLine("Registro implementado");
         }
     }
 }
