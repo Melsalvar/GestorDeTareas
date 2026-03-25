@@ -56,7 +56,7 @@ namespace GestorTareasArray
                     Console.WriteLine("Opción no válida. Inténtalo de nuevo.");
                 }
             }while (opcion != 4) ;
-            Console.WriteLine("PENDIENTE");
+            Console.WriteLine("Login implementado");
         }
     }
 }
